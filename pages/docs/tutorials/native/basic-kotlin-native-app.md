@@ -9,15 +9,15 @@ showAuthorInfo: false
 ---
 
 
-In this tutorial we'll see how to
+在本教程中，我们将了解如何
 
-* [Obtain the Kotlin/Native compiler](#obtaining-the-compiler)
-* [Write the application](#creating-hello-kotlin)
-* [Compile and examine output](#compiling-and-examining-output)
-* [Run the application](#running-the-application)
+* [获取Kotlin/Native编译器](#obtaining-the-compiler)
+* [编写应用程序](#creating-hello-kotlin)
+* [编译并检查输出](#compiling-and-examining-output)
+* [运行该应用程序](#running-the-application)
 
 
-## Obtaining the compiler
+## 获取编译器
 
 Kotlin/Native is available for macOS, Linux and Windows. Depending on the operating system we're working on, we'll need to download
 the correct compiler. While cross-platform compilation is possible (i.e. using one platform to compile for another), in this first tutorial
